@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Mutabe3" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">#0A1226</item>
+        <item name="android:statusBarColor">#0A1226</item>
+        <item name="android:navigationBarColor">#0A1226</item>
+        <item name="colorPrimary">#1E7BFF</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
